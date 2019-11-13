@@ -10,7 +10,6 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  print_first_directors_movie_titles = 
   row_index = 0 
   while row_index < directors_database.count do 
     element_index = 0 
