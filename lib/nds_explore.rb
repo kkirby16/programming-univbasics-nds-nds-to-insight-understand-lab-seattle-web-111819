@@ -9,7 +9,7 @@ def pretty_print_nds(nds)
   nil
 end
 
-def print_first_directors_movie_titles(directors_database)
+def print_first_directors_movie_titles(nds)
   row_index = 0 
   while row_index < directors_database.count do 
     element_index = 0 
